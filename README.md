@@ -29,6 +29,15 @@ This project implements a real-time object detection system designed for autonom
 - Agricultural monitoring
 - Wildlife detection
 
+---
+
+## 📅 Project Timeline
+- **Development Window**: **17 Nov 2025 – 06 Jan 2026**
+- **Role**: AI/ML & Embedded Systems Engineer
+- **Status**: Tested & Benchmarked on Raspberry Pi 4B
+
+---
+
 ## ✨ Features
 
 - ⚡ Real-time object detection using YOLOv8n (nano model)
